@@ -1,0 +1,27 @@
+
+
+body {
+  background-color: rgb(235, 235, 235);
+  height: 100%;
+
+
+}
+
+
+.colorl{
+  color: white !important;
+}
+
+
+.img-input {
+  border: 2px solid rgb(27, 27, 27)         !important;                              
+  background-image: url('../img/search.svg')  !important;
+  background-position: 10px 10px              !important; 
+  background-repeat: no-repeat                !important; 
+  background-position: 98%                    !important; 
+}
+
+
+
+
+
