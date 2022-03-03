@@ -1,3 +1,3 @@
 # Desafio_Php
 
-Esse desafio consistia em cria
+Esse desafio consistie em criar um sistema de busca em php.
